@@ -1,0 +1,8 @@
+
+
+puts "Here is the mean of houses added per year"
+f = File.open ("newhomes.csv")
+info = f.readlines
+puts info
+
+puts "\n"
